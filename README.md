@@ -14,7 +14,7 @@ Redis
 
 Clone repository
 
-git clone https://github.com/Abhisheksaini23/node-devops-project.git
+
 
 cd node-devops-project
 
